@@ -15,7 +15,7 @@ Si no tiene instaladas estas herramientas en su equipo busque apoyo en Help Desk
 ## Instalación
 - Lo primero que debe hacer es clonar este repositorio en su equipo para poder realizar las pruebas localmente.
 ```
-git clone https://github.com/brm-cortesc/frontdesign-package.git
+git clone https://github.com/Checha1228/ManualFront
 ```
 - Luego se abre la consola, se ubica la carpera donde clonó el repositorio.
 - Se ejecuta el siguiente comando en la consola para descagar las librerías necesarias.
